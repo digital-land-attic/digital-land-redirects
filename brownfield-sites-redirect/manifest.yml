@@ -1,0 +1,5 @@
+---
+applications:
+- name: brownfield-sites-validator
+  memory: 64M
+  buildpack: staticfile_buildpack
